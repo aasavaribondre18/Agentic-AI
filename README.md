@@ -1,4 +1,5 @@
 # Agentic-AI
+
 Making AI Travel Advisor  Agent using CrewAI
 
 Problem Statement :
@@ -17,13 +18,15 @@ Develop a budget-friendly, dynamic fare estimation system.
 Ensure seamless user experience with an interactive UI.
 
 Technology used:
-Python 
-Machine Learning (ML) 
-Large Language Models (LLM) 
-Natural Language Processing (NLP) 
-Serper Dev Tool 
-Gradio 
-Serp API 
-Gemini Platform
+
+- Python 
+- Machine Learning (ML) 
+- Large Language Models (LLM) 
+- Natural Language Processing (NLP) 
+- Serper Dev Tool 
+- Gradio 
+- Serp API 
+- Gemini Platform
+
 Artificial Intelligence![image](https://github.com/user-attachments/assets/6c126ae4-dbc7-4cfc-8f97-b974c20b0b3e)
 
